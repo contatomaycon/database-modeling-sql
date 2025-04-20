@@ -1,2 +1,2 @@
-# -database-modeling-sql
+# database-modeling-sql
 Database Modeling &amp; SQL
